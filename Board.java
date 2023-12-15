@@ -1,3 +1,4 @@
+// Manages the game board, including points, bars, and endpoints, handles players, dice, and game rounds, and controls the game logic for checker movements and turn management.
 import java.io.InputStream;
 import java.util.ArrayList;
 import java.util.List;
